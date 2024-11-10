@@ -22,20 +22,14 @@ function App() {
 
         <footer className="mt-16 text-center">
           <div className="flex justify-center space-x-6 mb-4">
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-orange-500">
+            <a href="https://twitter.com/StudentlyAI" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-orange-500">
               <Twitter size={24} />
             </a>
-            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-orange-500">
+            <a href="https://www.facebook.com/studentlyAI" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-orange-500">
               <Facebook size={24} />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-orange-500">
+            <a href="https://www.linkedin.com/company/studentlyai" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-orange-500">
               <Linkedin size={24} />
-            </a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-orange-500">
-              <Instagram size={24} />
-            </a>
-            <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-orange-500">
-              <Youtube size={24} />
             </a>
           </div>
           <p className="text-gray-600">© 2024 StudentlyAI. All rights reserved.</p>
